@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetim
 import random
 
 def daily_activity_10():
