@@ -1,5 +1,5 @@
 from datetime import datetime
-import rando
+import random
 
 def daily_activity_10():
     now = datetime.now()
